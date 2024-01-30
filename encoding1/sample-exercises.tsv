@@ -1,0 +1,26 @@
+Assume 16-bit values.				
+				
+Hexadecimal	Unsigned Decimal	Signed Decimal	Octal	Binary
+3CC7	?	-	-	?
+?	65476	?	-	1111 1111 1100 0100
+0174	-	372	?	-
+?	260	?	-	-
+F1E8	-	?	?	1111 0001 1110 1000
+1711	5905	-	?	?
+?	?	-	000065	-
+FFFE	?	?	177776	1111 1111 1111 1110
+?	107	-	?	-
+-	717	717	?	-
+-	?	?	-	0110 1111 1111 0110
+				
+Assume 16-bit arithmetic.				
+				
+	Saturated Sum	Modular Sum	Carry? (y/n)	Overflow? (y/n)
+815A + 58D8	?	?	?	?
+16DA + E783	?	?	?	?
+010E + FFFE	?	?	?	?
+87DC + 983F	?	?	?	?
+079D + 10D0	?	?	?	?
+8621 + C78A	?	?	?	?
+03E1 + 00E1	?	?	?	?
+0003 + 0007	?	?	?	?

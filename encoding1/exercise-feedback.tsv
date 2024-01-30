@@ -1,0 +1,210 @@
+Exercise:					
+?	100	-	?	-	
+					
+Your answer:					
+64	100	-	144	-	
+					
+The correct answer(s) is/are:					
+0064	100	-	000144	-	
+					
+Correct, but wrong formatting.					6
+					
+
+Exercise:					
+?	253	?	-	-	
+					
+Your answer:					
+FD	253	253	-	-	
+					
+The correct answer(s) is/are:					
+00FD	253	253	-	-	
+					
+Correct, but wrong formatting.					6
+					
+
+Exercise:					
+41D0	?	-	-	?	
+					
+Your answer:					
+41D0	16848	-	-	0100 0001 1101 0000	
+					
+You got it completely right!					6
+					
+
+Exercise:					
+?	65474	?	-	1111 1111 1100 0010	
+					
+Your answer:					
+FFC2	65474	-62	-	1111 1111 1100 0010	
+					
+You got it completely right!					6
+					
+
+Exercise:					
+FFFC	?	?	177774	1111 1111 1111 1100	
+					
+Your answer:					
+FFFC	65532	-4	177774	1111 1111 1111 1100	
+					
+You got it completely right!					6
+					
+
+Exercise:					
+F342	-	?	?	1111 0011 0100 0010	
+					
+Your answer:					
+F342	-	-3262	171502	1111 0011 0100 0010	
+					
+You got it completely right!					6
+					
+
+Exercise:					
+06A6	1702	-	?	?	
+					
+Your answer:					
+06A6	1702	-	3246	0000 0110 1010 0110	
+					
+The correct answer(s) is/are:					
+06A6	1702	-	003246	0000 0110 1010 0110	
+					
+Correct, but wrong formatting.					6
+					
+
+Exercise:					
+01D5	469	?	-	-	
+					
+Your answer:					
+01D5	469	469	-	-	
+					
+You got it completely right!					3
+					
+
+Exercise:					
+?	822	822	-	-	
+					
+Your answer:					
+336	822	822	-	-	
+					
+The correct answer(s) is/are:					
+0336	822	822	-	-	
+					
+Correct, but wrong formatting.					3
+					
+
+Exercise:					
+-	?	?	-	1000 0100 1000 1011	
+					
+Your answer:					
+-	33931	-31605	-	1000 0100 1000 1011	
+					
+You got it completely right!					6
+					
+
+Exercise:					
+?	?	-	000072	-	
+					
+Your answer:					
+3A	58	-	72	-	
+					
+The correct answer(s) is/are:					
+003A	58	-	000072	-	
+					
+Correct, but wrong formatting.					6
+					
+
+Exercise:					
+F7DC + 24DC	?	?	?	?	
+					
+Your answer:					
+F7DC + 24DC	1CB8	1CB8	Y	N	
+					
+The correct answer(s) is/are:					
+F7DC + 24DC	1CB8	1CB8	y	n	
+					
+Correct, but wrong formatting. (We need lower case y/n).					5
+					
+
+Exercise:					
+7A14 + 5D12	?	?	?	?	
+					
+Your answer:					
+7A14 + 5D12	7FFF	D726	N	Y	
+					
+The correct answer(s) is/are:					
+7A14 + 5D12	7FFF	D726	n	y	
+					
+Correct, but wrong formatting. (We need lower case y/n).					5
+					
+
+Exercise:					
+0122 + FFFB	?	?	?	?	
+					
+Your answer:					
+0122 + FFFB	011D	011D	Y	N	
+					
+The correct answer(s) is/are:					
+0122 + FFFB	011D	011D	y	n	
+					
+Correct, but wrong formatting. (We need lower case y/n).					5
+					
+
+Exercise:					
+0885 + 1118	?	?	?	?	
+					
+Your answer:					
+0885 + 1118	199D	199D	N	N	
+					
+The correct answer(s) is/are:					
+0885 + 1118	199D	199D	n	n	
+					
+Correct, but wrong formatting. (We need lower case y/n).					5
+					
+
+Exercise:					
+0007 + 0009	?	?	?	?	
+					
+Your answer:					
+0007 + 0009	0010	0010	N	N	
+					
+The correct answer(s) is/are:					
+0007 + 0009	0010	0010	n	n	
+					
+Correct, but wrong formatting. (We need lower case y/n).					5
+					
+
+Exercise:					
+6BA6 + 992D	?	?	?	?	
+					
+Your answer:					
+6BA6 + 992D	04D3	04D3	Y	N	
+					
+The correct answer(s) is/are:					
+6BA6 + 992D	04D3	04D3	y	n	
+					
+Correct, but wrong formatting. (We need lower case y/n).					5
+					
+
+Exercise:					
+03BB + 0101	?	?	?	?	
+					
+Your answer:					
+03BB + 0101	04BC	04BC	N	N	
+					
+The correct answer(s) is/are:					
+03BB + 0101	04BC	04BC	n	n	
+					
+Correct, but wrong formatting. (We need lower case y/n).					5
+					
+
+Exercise:					
+B1EB + C42B	?	?	?	?	
+					
+Your answer:					
+B1EB + C42B	8000	7616	Y	Y	
+					
+The correct answer(s) is/are:					
+B1EB + C42B	8000	7616	y	y	
+					
+Correct, but wrong formatting. (We need lower case y/n).					5
+					
+				Total:	97
