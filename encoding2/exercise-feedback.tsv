@@ -1,0 +1,166 @@
+Exercise:					
+82DD	33501	?	-	-	
+					
+Your answer:					
+82DD	33501	-32035	-	-	
+					
+You got it completely right!					3
+					
+
+Exercise:					
+FFE8	?	-24	-	1111 1111 1110 1000	
+					
+Your answer:					
+FFE8	65512	-24	-	1111 1111 1110 1000	
+					
+You got it completely right!					3
+					
+
+Exercise:					
+-	-	?	027063	0010 1110 0011 0011	
+					
+Your answer:					
+-	-	11827	027063	0010 1110 0011 0011	
+					
+You got it completely right!					3
+					
+
+Exercise:					
+?	-	-256	177400	-	
+					
+Your answer:					
+FF00	-	-256	177400	-	
+					
+You got it completely right!					3
+					
+
+Exercise:					
+-	?	32689	077661	-	
+					
+Your answer:					
+-	32689	32689	077661	-	
+					
+You got it completely right!					3
+					
+
+Exercise:					
+7FBE + 0047	?	?	?	?	
+					
+Your answer:					
+7FBE + 0047	7FFF	8005	n	y	
+					
+You got it completely right!					5
+					
+
+Exercise:					
+8C08 + E4A3	?	?	?	?	
+					
+Your answer:					
+8C08 + E4A3	8000	70AB	y	y	
+					
+You got it completely right!					5
+					
+
+Exercise:					
+FD22 + 0008	?	?	?	?	
+					
+Your answer:					
+FD22 + 0008	FD2A	FD2A	n	n	
+					
+You got it completely right!					5
+					
+
+Exercise:					
+?	?	-88.0			
+					
+Your answer:					
+C2 B0 00 00	-1.011 x 2^(6)	-88			
+					
+You got it completely right!					10
+					
+
+Exercise:					
+43 55 00 00	?	?			
+					
+Your answer:					
+43 55 00 00	1.1010101 x 2^(7)	213			
+					
+You got it completely right!					10
+					
+
+Exercise:					
+?	1.1 x 2^(-102)	-			
+					
+Your answer:					
+0C C0 00 00	1.1 x 2^(-102)	-			
+					
+You got it completely right!					5
+					
+
+Exercise:					
+?	-1.001 x 2^(96)	-			
+					
+Your answer:					
+EF 90 00 00	-1.001 x 2^(96)	-			
+					
+You got it completely right!					5
+					
+
+Exercise:					
+3E 20 00 00	?	?			
+					
+Your answer:					
+3E 20 00 00	1.01 x 2^(-3)	0.15625			
+					
+You got it completely right!					10
+					
+
+Exercise:					
+BF 50 00 00	-	?			
+					
+Your answer:					
+BF 50 00 00	-	-0.8125			
+					
+You got it completely right!					5
+					
+
+Exercise:					
+9F 00 00 00	?	-			
+					
+Your answer:					
+9F 00 00 00	-1.0 x 2^(65)	-			
+					
+The correct answer(s) is/are:					
+9F 00 00 00	-1.0 x 2^(-65)	-			
+					
+Wrote it down right, just typed it in wrong. (-1)					4
+					
+
+Exercise:					
+?	-	572.375			
+					
+Your answer:					
+44 0F 18 00	-	572.375			
+					
+You got it completely right!					5
+					
+
+Exercise:					
+?	?	-320.0			
+					
+Your answer:					
+C0 74 00 00 00 00 00 00	-1.01 x 2^(8)	-320			
+					
+You got it completely right!					10
+					
+
+Exercise:					
+1F 85 00 00 00 00 00 00	?	-			
+					
+Your answer:					
+1F 85 00 00 00 00 00 00	1.0101 x 2^(-519)	-			
+					
+You got it completely right!					5
+					
+
+				Total:	99
