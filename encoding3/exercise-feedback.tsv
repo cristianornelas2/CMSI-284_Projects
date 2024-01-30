@@ -1,0 +1,163 @@
+Exercise:					
+35 80 00 00	?	-			
+					
+Your answer:					
+35 80 00 00	1.0 x 2^(-20)	-			
+					
+You got it completely right!					5
+					
+
+Exercise:					
+?	-1.1111 x 2^(110)	-			
+					
+Your answer:					
+F6 F8 00 00	-1.1111 x 2^(110)	-			
+					
+You got it completely right!					5
+					
+
+Exercise:					
+?	-1.11 x 2^(-195)	-			
+					
+Your answer:					
+B3 CC 00 00 00 00 00 00	-1.11 x 2^(-195)	-			
+					
+You got it completely right!					5
+					
+
+Exercise:					
+~	-	?	?	7E	
+					
+Your answer:					
+~	-	0000007E	007E	7E	
+					
+You got it completely right!					6
+					
+
+Exercise:					
+Ï	?	000000CF	?	-	
+					
+Your answer:					
+Ï	U+00CF	000000CF	00CF	-	
+					
+You got it completely right!					6
+					
+
+Exercise:					
+Κ	-	?	?	CE 9A	
+					
+Your answer:					
+Κ	-	0000039A	039A	CE 9A	
+					
+You got it completely right!					6
+					
+
+Exercise:					
+⊴	?	000022B4	-	?	
+					
+Your answer:					
+⊴	U+22B4	000022B4	-	E2 8A B4	
+					
+You got it completely right!					6
+					
+
+Exercise:					
+?	U+0063	-	0063	?	
+					
+Your answer:					
+c	U+0063	-	0063	63	
+					
+You got it completely right!					6
+					
+
+Exercise:					
+🂏	-	?	?	F0 9F 82 8F	
+					
+Your answer:					
+🂏	-	0001F08F	D83C DC8F	F0 9F 82 8F	
+					
+You got it completely right!					6
+					
+
+Exercise:					
+?	?	-	D83D DE37	F0 9F 98 B7	
+					
+Your answer:					
+😷	U+1F637	-	D83D DE37	F0 9F 98 B7	
+					
+You got it completely right!					6
+					
+
+Exercise:					
+🀧	?	?	-	F0 9F 80 A7	
+					
+Your answer:					
+🀧	U+1F027	0001F027	-	F0 9F 80 A7	
+					
+You got it completely right!					6
+					
+
+Exercise:					
+?	-	0001F612	D83D DE12	?	
+					
+Your answer:					
+😒	-	0001F612	D83D DE12	F0 9F 98 92	
+					
+You got it completely right!					6
+					
+
+Exercise:					
+⋥	?	-	?	E2 8B A5	
+					
+Your answer:					
+⋥	U+22E5	-	22E5	E2 8B A5	
+					
+You got it completely right!					6
+					
+
+Exercise:					
+?	JUMP counter				
+					
+Your answer:					
+C0000C3A	JUMP counter				
+					
+You got it completely right!					5
+					
+
+Exercise:					
+?	DIV lookup				
+					
+Your answer:					
+702063E6	DIV lookup				
+					
+You got it completely right!					5
+					
+
+Exercise:					
+?	JZ lookup				
+					
+Your answer:					
+D02063E6	JZ lookup				
+					
+You got it completely right!					5
+					
+
+Exercise:					
+2F00E877	?				
+					
+Your answer:					
+2F00E877	IN gpu				
+					
+You got it completely right!					5
+					
+
+Exercise:					
+D02063E6	?				
+					
+Your answer:					
+D02063E6	JZ lookup				
+					
+You got it completely right!					5
+					
+
+				Total:	100
